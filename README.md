@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , I'm Farhan Abdullah </b><h1>
+<h1 align="center"><b>Hi , I'm Farhan Abdullah </b></h1>
   
   <br>
   <hr>
