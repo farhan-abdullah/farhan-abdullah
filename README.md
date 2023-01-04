@@ -27,8 +27,7 @@
 </div>
 </p>
 
-<br/>
-
+<hr/>
 
 <div align='center'>
 
