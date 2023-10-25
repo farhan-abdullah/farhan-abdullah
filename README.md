@@ -2,8 +2,7 @@
   
   <br>
 
-- A passionate Self-taught Front-end developer
-- Currently learning Web Development by Self
+- I'm currently learning Web Development on the Programming Hero platform.
 - Personal website [link](https://www.farhanabdullah.com)
 
 <br/>
